@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+
+I'm a beginner developer currently learning Python, Git, GitHub, and web development.
 
 <!--
 **LimByungKwan/LimByungKwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
